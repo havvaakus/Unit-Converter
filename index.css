@@ -1,0 +1,42 @@
+body {
+    background: #1F2937;
+    margin: 0;
+    text-align: center;
+    background: #FFFFFF;
+
+}
+
+.hero {
+    background: #6943FF;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 800px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    width: 550px;
+    height: 285px;
+    padding: 30px;
+
+}
+
+.container {
+    background: #1F2937;
+    padding: 10px;
+    width: 550px;
+    height: 729px;
+    top: 126px;
+    left: 696px;
+}
+
+.section {
+    background: #273549;
+    padding: 5px;
+    width: 500px;
+    height: 108.57px;
+    top: 321px;
+    left: ;
+    border-radius: 4.68px, 0px, 0px, 0px;
+    gap: 18.72px;
+}
+
