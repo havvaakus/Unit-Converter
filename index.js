@@ -12,6 +12,6 @@ const kilogramToPound = 2.204
 convertBtn.addEventListener ("click", function() {
     let baseValue = inputEl.value
     lengthEl.textContent = `${baseValue} meters = ${baseValue*meterToFeet} feet | ${baseValue} feet = ${baseValue/meterToFeet} meters`
-    volumeEl.textContent = `${baseValue} liters = ${baseValue*literToGallon} gallons | ${baseValue} gallon = ${baseValue/meterToFeet} liters`
+    volumeEl.textContent = `${baseValue} liters = ${baseValue*literToGallon} gallons | ${baseValue} gallons = ${baseValue/meterToFeet} liters`
     massEl.textContent = `${baseValue} kilos = ${baseValue*literToGallon} pounds | ${baseValue} pounds = ${baseValue/meterToFeet} kilos`
 })
