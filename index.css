@@ -12,6 +12,8 @@ body {
     text-align: center;
     letter-spacing: -0.03em;
     padding: 30px;
+    display: flex;
+    flex-direction: column;
 }
 
 #convert-btn {
@@ -31,6 +33,7 @@ body {
     line-height: 24px;
     letter-spacing: 0em;
     text-align: center;
+    margin: 5px auto 30px;
 
 }
 
@@ -50,11 +53,13 @@ body {
     font-weight: 800;
     line-height: 24px;
     letter-spacing: 0em;
+    margin: 30px auto 15px;
 }
 ::placeholder {
     color: #FFFFFF;
     opacity: 1;
   }
+
 
 .container {
     background: #1F2937;
