@@ -27,6 +27,15 @@ body {
     margin: 25px;
 }
 
+.input {
+    width: 117px;
+    height: 83px;
+    top: 101px;
+    left: 217px;
+    border-radius: 5px;
+    border: 2px;
+
+}
 .container {
     background: #1F2937;
     padding: 10px 10px;
