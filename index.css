@@ -1,9 +1,6 @@
 body {
-    background: #1F2937;
     margin: 0;
     text-align: center;
-    background: #FFFFFF;
-
 }
 
 .hero {
@@ -14,29 +11,38 @@ body {
     line-height: 38px;
     text-align: center;
     letter-spacing: -0.03em;
-    width: 550px;
-    height: 285px;
     padding: 30px;
+}
 
+.convert-btn {
+    background: #FFFFFF;
+    color: #3D3D3D;
+    width: 117px;
+    height: 42px;
+    top: 209px;
+    left: 217px;
+    padding: 9px, 27.5px, 9px, 27.5px;
+    border-radius: 5px;
+    border: 0px solid #FFFFFF;
+    margin: 25px;
 }
 
 .container {
     background: #1F2937;
-    padding: 10px;
-    width: 550px;
-    height: 729px;
-    top: 126px;
-    left: 696px;
+    padding: 10px 10px;
+    
+}
+.section1, .section2, .section3 {
+    color: #FFFFFF;
+    background: #273549;
+    padding: 20px 10px;
+    margin: 25px;
+    border-radius: 4.68px, 0px, 0px, 0px;
+}
+ 
+h3{
+    color: #CCC1FF;
 }
 
-.section {
-    background: #273549;
-    padding: 5px;
-    width: 500px;
-    height: 108.57px;
-    top: 321px;
-    left: ;
-    border-radius: 4.68px, 0px, 0px, 0px;
-    gap: 18.72px;
-}
+
 
