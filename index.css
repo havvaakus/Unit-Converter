@@ -7,7 +7,7 @@ body {
     background: #6943FF;
     color: #FFFFFF;
     font-family: Inter;
-    font-weight: 800px;
+    font-weight: 800;
     line-height: 38px;
     text-align: center;
     letter-spacing: -0.03em;
@@ -49,8 +49,12 @@ body {
     font-weight: 800;
     line-height: 24px;
     letter-spacing: 0em;
-
 }
+::placeholder {
+    color: #FFFFFF;
+    opacity: 1;
+  }
+
 .container {
     background: #1F2937;
     padding: 10px 10px;
@@ -80,5 +84,3 @@ h3{
     text-align: center;
 
 }
-
-
