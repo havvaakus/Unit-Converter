@@ -14,7 +14,7 @@ body {
     padding: 30px;
 }
 
-.convert-btn {
+#convert-btn {
     background: #FFFFFF;
     color: #3D3D3D;
     width: 117px;
@@ -34,7 +34,8 @@ body {
 
 }
 
-.input {
+#input {
+    color: #FFFFFF;
     width: 117px;
     height: 83px;
     top: 101px;
